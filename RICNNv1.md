@@ -4,7 +4,10 @@
 
 # Training Data set
 •	The training Data in this code ifs from the same set of the data for the image processing demonstration:  https://github.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s
-•	Adjust the intensity of images to be in between 0 and 1:
+•	Adjust the intensity of images to be in between 0 and 1.
+ RICNN_Cluster_classification/Figv1/seed_1.png 
+
+
 
 # Data Augment
 •	Rotate the image and the corresponding mirror image with a series of rotation steps. For example, the following figure is the result for 45 degree rotation step.
