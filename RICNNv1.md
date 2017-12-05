@@ -27,14 +27,29 @@
 •For the actual testing process, the rotation step is set to 0.5 degree, which generates 720 random rotations for both original and mirror images.
 
 # RICNN 
-•	The structure for the current RICNN is as below:
+•The structure for the current RICNN is as below:
+
 Conv1 : 40 × 40  × 16
+
 Conv2:  20 × 20 × 32
+
 Conv3: 10 × 10 × 64
+
 fc1: 2048
+
 fc2: 2048
+
 Output: 24 
-•	The trained convolution weights are visualized as follow:
+
+•The trained convolution weights are visualized as follow:
+
+![Conv1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv1.png)	
+
+![Conv2_1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv2_1_1.png)	
+
+![Conv2_2](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv2_1_2.png)	
+
+
 
 #Result
 •	The result for the accuracy of both the train set and testing set as a function of training epoch has be shown below:
