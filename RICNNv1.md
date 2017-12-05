@@ -8,6 +8,7 @@
 
 •Adjust the intensity of images to be in between 0 and 1.
  RICNN_Cluster_classification/Figv1/seed_1.png 
+ 
 ![Training set](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/seed_1.png)
 
 # Data Augment
@@ -42,12 +43,18 @@ fc2: 2048
 Output: 24 
 
 •The trained convolution weights are visualized as follow:
+
 Conv1
+
 ![Conv1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv1.png)	
+
 Conv2
+
 ![Conv2_1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv2_1_1.png)	
 ![Conv2_2](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv2_1_2.png)	
+
 Conv3
+
 ![Conv3_1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_1_1.png)
 ![Conv3_2](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_1_2.png)
 ![Conv3_3](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_1_3.png)
@@ -58,6 +65,8 @@ Conv3
 ![Conv3_8](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_2_4.png)
 
 #Result
-•	The result for the accuracy of both the train set and testing set as a function of training epoch has be shown below:
-•	The Accuracy saturated around 0.8 for the testing set, which suggests that the current model is somehow capable to handle 90% new  rotations that does not exist in the training set, but still have room to be improved.
+
+•The result for the accuracy of both the train set and testing set as a function of training epoch has be shown below:
+
+•The Accuracy saturated around 0.8 for the testing set, which suggests that the current model is somehow capable to handle 90% new  rotations that does not exist in the training set, but still have room to be improved.
 
