@@ -1,13 +1,15 @@
 # Preliminary Goal
 •The Goal for this code is to set up a ground work for RICNN with the very limited number (23) of distinguished data as seed images.  
+
 •Use seed images to train the model and evaluated the result to test the rotational invariance.  
 
 # Training Data set
 •	The training Data in this code ifs from the same set of the data for the image processing demonstration:  https://github.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s
+
 •	Adjust the intensity of images to be in between 0 and 1.
  RICNN_Cluster_classification/Figv1/seed_1.png 
 
-
+![Training set](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/Figv1/seed_1.png)
 
 # Data Augment
 •	Rotate the image and the corresponding mirror image with a series of rotation steps. For example, the following figure is the result for 45 degree rotation step.
