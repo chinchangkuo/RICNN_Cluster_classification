@@ -64,9 +64,11 @@ Conv3
 ![Conv3_7](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_2_3.png)
 ![Conv3_8](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_2_4.png)
 
-#Result
+# Result
 
 •The result for the accuracy of both the train set and testing set as a function of training epoch has be shown below:
+
+![result](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/figure_1.png)
 
 •The Accuracy saturated around 0.8 for the testing set, which suggests that the current model is somehow capable to handle 90% new  rotations that does not exist in the training set, but still have room to be improved.
 
