@@ -42,14 +42,20 @@ fc2: 2048
 Output: 24 
 
 •The trained convolution weights are visualized as follow:
-
+Conv1
 ![Conv1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv1.png)	
-
+Conv2
 ![Conv2_1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv2_1_1.png)	
-
 ![Conv2_2](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv2_1_2.png)	
-
-
+Conv3
+![Conv3_1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_1_1.png)
+![Conv3_2](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_1_2.png)
+![Conv3_3](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_1_3.png)
+![Conv3_4](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_1_4.png)
+![Conv3_5](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_2_1.png)
+![Conv3_6](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_2_2.png)
+![Conv3_7](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_2_3.png)
+![Conv3_8](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/conv3_2_4.png)
 
 #Result
 •	The result for the accuracy of both the train set and testing set as a function of training epoch has be shown below:
