@@ -4,16 +4,19 @@
 •Use seed images to train the model and evaluated the result to test the rotational invariance.  
 
 # Training Data set
-•	The training Data in this code ifs from the same set of the data for the image processing demonstration:  https://github.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s
+•The training Data in this code ifs from the same set of the data for the image processing demonstration:  https://github.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s
 
-•	Adjust the intensity of images to be in between 0 and 1.
+•Adjust the intensity of images to be in between 0 and 1.
  RICNN_Cluster_classification/Figv1/seed_1.png 
 ![Training set](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/seed_1.png)
 
 # Data Augment
-•	Rotate the image and the corresponding mirror image with a series of rotation steps. For example, the following figure is the result for 45 degree rotation step.
-•	For the actual training process, the rotation step is set to 5 degree, which generates 144 training images with 1 seed image.
+
+•Rotate the image and the corresponding mirror image with a series of rotation steps. For example, the following figure is the result for 45 degree rotation step.
+•For the actual training process, the rotation step is set to 5 degree, which generates 144 training images with 1 seed image.
 	
+![Data Augment](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/augment_1.png)	
+
 # Testing Data generator
 •	In this code, the testing set has been generated randomly with the finer rotation step. For example, the following figure is the result for 16 randomly choosing testing image from the seed images with the random rotation. 
 
