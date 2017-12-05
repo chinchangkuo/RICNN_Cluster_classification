@@ -8,8 +8,6 @@
 
 •	Adjust the intensity of images to be in between 0 and 1.
  RICNN_Cluster_classification/Figv1/seed_1.png 
-
-![Cluster&Probability](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/New_1.png)
 ![Training set](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/seed_1.png)
 
 # Data Augment
