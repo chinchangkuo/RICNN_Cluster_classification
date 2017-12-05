@@ -13,14 +13,18 @@
 # Data Augment
 
 •Rotate the image and the corresponding mirror image with a series of rotation steps. For example, the following figure is the result for 45 degree rotation step.
-•For the actual training process, the rotation step is set to 5 degree, which generates 144 training images with 1 seed image.
 	
 ![Data Augment](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/augment_1.png)	
 
-# Testing Data generator
-•	In this code, the testing set has been generated randomly with the finer rotation step. For example, the following figure is the result for 16 randomly choosing testing image from the seed images with the random rotation. 
+•For the actual training process, the rotation step is set to 5 degree, which generates 144 training images with 1 seed image.
 
-•	For the actual testing process, the rotation step is set to 0.5 degree, which generates 720 random rotations for both original and mirror images.
+# Testing Data generator
+
+•In this code, the testing set has been generated randomly with the finer rotation step. For example, the following figure is the result for 16 randomly choosing testing image from the seed images with the random rotation. 
+
+![Data Augment](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/master/Figv1/test_1.png)	
+
+•For the actual testing process, the rotation step is set to 0.5 degree, which generates 720 random rotations for both original and mirror images.
 
 # RICNN 
 •	The structure for the current RICNN is as below:
