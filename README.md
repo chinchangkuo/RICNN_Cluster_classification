@@ -2,6 +2,9 @@
 
 This is the repository for identifying bubble cluster configurations to produce the probability distribution.
 
+# Progress:
+
+
 # Motivation:
 
 In condensed matter physics one of the most important and open questions involves understanding the mechanical response of materials. With different structural features, solid materials can be classified into two main groups: crystalline materials and amorphous materials. Crystalline materials refer to substances that are arranged in a highly ordered microscopic structure. This type of material is often very rare in the natural environment, an example of which are diamonds. In the crystalline case, the mechanical response is well described by theoretical models, due to their highly ordered structure. One can easily imagine that the deformation of the crystalline structure under an applied force tends to occur near structural defects. This is because the surrounding local structure is relatively less stable. However, most materials exist in the nature are considered to be amorphous. In contrast to their crystalline counterpart, there is no long-range structural ordering. This is due to their intrinsic structural complexity, which makes it challenging to precisely predict the mechanical response under an applied force, especially as it pertains to understanding the structural transformation at the microscale. 
