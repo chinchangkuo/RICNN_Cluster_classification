@@ -1,6 +1,6 @@
 # Preliminary Goal
-•	The Goal for this code is to set up a ground work for RICNN with the very limited number (23) of distinguished data as seed images.  
-•	Use seed images to train the model and evaluated the result to test the rotational invariance  
+•The Goal for this code is to set up a ground work for RICNN with the very limited number (23) of distinguished data as seed images.  
+•Use seed images to train the model and evaluated the result to test the rotational invariance.  
 
 # Training Data set
 •	The training Data in this code ifs from the same set of the data for the image processing demonstration:  https://github.com/chinchangkuo/ImageProcessing-bubble_cluster_n3l3s
