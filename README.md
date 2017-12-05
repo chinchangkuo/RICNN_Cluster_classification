@@ -3,7 +3,7 @@
 This is the repository for identifying bubble cluster configurations to produce the probability distribution.
 
 # Progress:
-
+![v1](https://raw.githubusercontent.com/chinchangkuo/RICNN_Cluster_classification/RICNNv1.md)
 
 # Motivation:
 
