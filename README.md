@@ -4,6 +4,7 @@ This is the repository for identifying bubble cluster configurations to produce 
 
 # Progress:
 ![RICNNv1_12/05/2017](https://github.com/chinchangkuo/RICNN_Cluster_classification/blob/master/RICNNv1.md)
+
 ![RICNNv2_02/02/2018](https://github.com/chinchangkuo/RICNN_Cluster_classification/blob/master/RICNNv2.md)
 
 # Motivation:
